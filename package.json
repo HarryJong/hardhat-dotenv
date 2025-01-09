@@ -1,7 +1,7 @@
 {
   "name": "hardhat-dotenv",
   "version": "16.4.7",
-  "description": "Loads environment variables from .env file",
+  "description": "Loads environment variables from .env file in hardhat project",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
   "exports": {
